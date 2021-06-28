@@ -24,6 +24,6 @@
     "express-session": "^1.16.1",
     "mongodb": "^3.2.3",
     "mongoose": "^5.5.2",
-    "prismjs": "^1.16.0"
+    "prismjs": "^1.24.0"
   }
 }
